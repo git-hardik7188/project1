@@ -1,2 +1,6 @@
 added fixbug toolbox
+
 adding in fixbug3 branch
+
+modification for the merge conflict
+
